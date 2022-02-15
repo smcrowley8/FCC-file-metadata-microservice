@@ -1,6 +1,7 @@
 {
   "name": "file_metadata",
   "version": "0.0.1",
+  "author": "Sean Crowley",
   "description": "API project for freeCodeCamp",
   "main": "server.js",
   "scripts": {
@@ -14,11 +15,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-filemetadata"
+    "url": "https://github.com/smcrowley8/FCC-file-metadata-microservice"
   },
   "keywords": [
     "node",
-    "express"
+    "express",
+    "mongoose",
+    "mongo"
   ],
   "license": "MIT"
 }
